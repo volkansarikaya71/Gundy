@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gundy2</string>
+    <string name="Write_text">Hey Gundime Mesaj Göndendermek İçin Buraya Yaz ...</string>
+    <string name="Youtube_Image">Youtube Butonu</string>
+    <string name="Aplication_Close_Image">Uygulamayı kapatma Butonu</string>
+    <string name="Heart_Image">Kalp emoji Butonu</string>
+    <string name="Sender_Image">Mesaj gönder Butonu</string>
+    <string name="Microfon_Image">Mikrofon Açma Butonu</string>
+    <string name="Image_Select">Resim Seç Butonu</string>
+    <string name="Logo_Image">Gundy logosu</string>
+</resources>
