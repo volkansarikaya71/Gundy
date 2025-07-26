@@ -31,3 +31,5 @@ Voice Recognition: Real-time Turkish speech input for enhanced user interaction.
 Media Handling: Comprehensive support for camera, gallery, and microphone to facilitate multimedia sharing.
 
 Automated Testing: Built-in environment validation tools to ensure application stability and reliability.
+
+https://www.volkansarikaya.com
